@@ -1,7 +1,7 @@
 # Thoughts around intelligence: human, artifical and societal.
 
 ## Posts
-- Early March thoughts around what's out there[AI] (2020-03-01-What-I-am-reading.md)
+- Early March thoughts around what's out there[AI](_posts/2020-03-01-What-I-am-reading.md)
 
 ## Medium
 - [Quandl 2020 Alternative Data Conference | Data Driven Investor](https://medium.com/datadriveninvestor/quandl-2020-alternative-data-conference-data-driven-investor-1e63ba5a6b3f)
