@@ -4,9 +4,9 @@ theme: jekyll-theme-minimal
 description: "Data science rōnin. 浪人 Analytics, machine learning, and alternative data. Yoga."
 logo: "/assets/images/88x88.png"
 
-linkedin: www.linkedin.com/in/pwent
-twitter: @thePeterWent
-medium: @peterwent
+linkedin: pwent
+twitter: thePeterWent
+medium: peterwent
 
 breadcrumbs: true
 read_time: true
