@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "What I am reading"
+---
+
 # Readings of the week
 AI is increasingly at the forefront of long term strategic priorities.  A few examples this week that worth reading:
 
